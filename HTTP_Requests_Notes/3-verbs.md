@@ -46,4 +46,4 @@ Now, name the response code.
 
 ###### Now we're ready to start doing HTTP requests ourselves!
 
-But not before a [quick derail](https://github.com/joshua-alex/github101/blob/githubNotes/HTTP_Requests_Notes/npm.md) :station:
+But not before a [quick derail](https://github.com/joshua-alex/github101/blob/githubNotes/HTTP_Requests_Notes/4-npm.md) :station:

@@ -44,4 +44,4 @@ https://notekeeper.com/api/deletenote
 
 Now, how do we use CRUDs in real life? How will we use CRUDs today?
 
-Through [HTTP verbs](https://github.com/joshua-alex/github101/blob/githubNotes/HTTP_Requests_Notes/verbs.md)
+Through [HTTP verbs](https://github.com/joshua-alex/github101/blob/githubNotes/HTTP_Requests_Notes/3-verbs.md)

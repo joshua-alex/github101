@@ -43,4 +43,4 @@ and receive:
 1. Axios - an easy-to-use Node-based HTTP client designed to work with ES6
 2. A dummy REST API
 
-[So what is that word you used, REST?](https://github.com/joshua-alex/github101/blob/githubNotes/HTTP_Requests_Notes/rest.md)
+[So what is that word you used, REST?](https://github.com/joshua-alex/github101/blob/githubNotes/HTTP_Requests_Notes/2-rest.md)
